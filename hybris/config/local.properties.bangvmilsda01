@@ -6,7 +6,7 @@
 # db.driver=oracle.jdbc.driver.OracleDriver
 # db.username=hybris
 # db.password=hybris
-
+# db.password1=hybris
 
 
 ######################## GENERAL SETUP #################################
