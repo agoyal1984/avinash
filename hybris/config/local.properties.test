@@ -1,5 +1,5 @@
 
-######################### DATABASE SETUP ################################
+########################### DATABASE SETUP ################################
 	
 ##### Example Oracle settings
 # db.url=jdbc:oracle:thin:@localhost:1521:XE
